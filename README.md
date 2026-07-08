@@ -1,3 +1,5 @@
+![](assets/repo_header_dark_1280x320.png)
+
 # mesh-guides
 
 `freq : quiet · signal : alive`
